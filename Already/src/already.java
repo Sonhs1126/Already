@@ -5,6 +5,17 @@ public class already {
 		// TODO Auto-generated method stub
 		System.out.println("codebamer");
 		System.out.println("codebamer");
+		System.out.println("codebamer");
+		System.out.println("codebamer");
+		System.out.println("codebamer");
+		System.out.println("codebamer");
+		System.out.println("codebamer");
+		System.out.println("codebamer");
+		System.out.println("codebamer");
+		System.out.println("codebamer");
+		
+		System.out.println("codebamer");
+		System.out.println("codebamer");
 	}
 
 }
